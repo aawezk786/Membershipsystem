@@ -44,7 +44,7 @@
 		</div>
 	</div>	
 	<footer class = "navbar navbar-fixed-bottom navbar-inverse">
-	<label class = "pull-right">&copy; <?php echo date('Y', strtotime('+8 HOURS'))?> Developed By: <b>Mark Arvin Arandilla</b></label>
+	<label class = "pull-right">&copy; <?php echo date('Y', strtotime('+8 HOURS'))?> Developed By: <b>ZEWAA</b></label>
 	</footer>
 </body>	
 <script src = "js/jquery-3.1.1.js"></script>
